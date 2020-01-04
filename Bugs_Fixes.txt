@@ -1,0 +1,9 @@
+- Missing <H1> tags arount the jumbotron
+- Add <P> tags to the article
+- Add link in <a> tag for wikipedia link
+- Fix <img> tags to display image
+- Add <li> tags to list items in list of Boo's favourite things
+- Fix javascript file name in script tag
+- Fix random fact list in JS file by adding quotation marks
+- Fix pink color in JS file by adding quotatin marks
+- Fix button of groe and shrink in JS file by adding quotaion marks around Click
